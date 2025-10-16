@@ -74,7 +74,7 @@
     <a href="https://andreas-yuji-fujiki-dev.github.io/portfolio/">
       <img src="https://img.shields.io/badge/-Portfolio-6E40C9?style=for-the-badge&logo=nexon&logoColor=white&labelColor=6E40C9" alt="Portfolio">
     </a>
-    <a href="https://www.linkedin.com/in/andreas-yuji-fujiki-dev-a08633321/" target="_blank">
+    <a href="https://www.linkedin.com/in/andreas-yuji-fujiki-dev/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt"LinkedIn" />
     </a>
     <a href="mailto:andreaspinheirocontato@gmail.com" target="_blank"> 
