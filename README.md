@@ -4,31 +4,33 @@
 <div align="center" >
   <a href="https://github.com/andreas-yuji-fujiki-dev">     
     <!-- Linguagens -->
-    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" alt="Python" />
+    <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=0D1117" alt="Java" />
+    <img src="https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117" alt="C#" />
+    <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=0D1117" alt="Kotlin" />
     <!-- Frontend -->
-    <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React.js" />
+    <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native" />
+    <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=0D1117" alt="Next.js" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=0D1117" alt="jQuery" />
     <!-- Backend -->
-    <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" alt="Node.js" />
+    <img src="https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0D1117" alt="Express" />
+    <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0D1117" alt="Flask" />
+    <img src="https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117" alt=".NET" />
     <!-- State Management -->
-    <img src="https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-Zustand-0D1117?style=for-the-badge&logo=zincsearch&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=0D1117" alt="Redux" />
+    <img src="https://img.shields.io/badge/-Zustand-0D1117?style=for-the-badge&logo=zincsearch&logoColor=white&labelColor=0D1117" alt="Zustand" />
     <!-- Testes -->
-    <img src="https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-React%20Testing%20Library-0D1117?style=for-the-badge&logo=testing-library&logoColor=E33332&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=0D1117" alt="Jest" />
+    <img src="https://img.shields.io/badge/-React%20Testing%20Library-0D1117?style=for-the-badge&logo=testing-library&logoColor=E33332&labelColor=0D1117" alt="React Testing Library" />
     <!-- Bancos e ORM -->
-    <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=ffffff&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=ffffff&labelColor=0D1117" alt="Prisma" />
+    <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" alt="MongoDB" />
   </a> 
 </div>
 
