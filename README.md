@@ -10,26 +10,21 @@
     <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=0D1117" />
-    
     <!-- Frontend -->
     <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117" />
-    
     <!-- Backend -->
     <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0D1117" />
-    
     <!-- State Management -->
     <img src="https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/-Zustand-0D1117?style=for-the-badge&logo=zincsearch&logoColor=white&labelColor=0D1117" />
-    
     <!-- Testes -->
     <img src="https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/-React%20Testing%20Library-0D1117?style=for-the-badge&logo=testing-library&logoColor=E33332&labelColor=0D1117" />
-    
     <!-- Bancos e ORM -->
     <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=ffffff&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" />
