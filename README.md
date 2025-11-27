@@ -1,6 +1,8 @@
 <!-- Effect Phrase -->
-<img src="https://img.shields.io/badge/Creative.%20Precise.%20Fullstack.-0D1117?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/The%20open--mind%20programmer%20you%20need-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Creative%20·%20Precise%20·%20Fullstack-0D1117?style=for-the-badge&logo=apache%20spark&logoColor=F5DEB3&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/The%20Open--Mind%20Programmer%20You%20Need-0D1117?style=for-the-badge&logo=jetbrains&logoColor=00E7FF&labelColor=0D1117" />
+</p>
 
 <!-- Improvised Margin -->
 <p></p>
