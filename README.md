@@ -1,5 +1,6 @@
 <!-- Effect Phrase -->
 <img src="https://img.shields.io/badge/Creative.%20Precise.%20Fullstack.-0D1117?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/The%20open--mind%20programmer%20you%20need-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 
 <!-- Improvised Margin -->
 <p></p>
