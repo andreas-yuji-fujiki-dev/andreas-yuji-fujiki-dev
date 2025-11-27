@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/736x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg" />
+
 <!-- Effect Phrase -->
 <p align="center">
   <img src="https://img.shields.io/badge/Creative%20·%20Precise%20·%20Fullstack-0D1117?style=for-the-badge&logo=apache%20spark&logoColor=F5DEB3&labelColor=0D1117" />
