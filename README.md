@@ -1,42 +1,3 @@
-<!--       
-    Stacks:   
--->
-<div align="center" >
-  <a href="https://github.com/andreas-yuji-fujiki-dev">     
-    <!-- Linguagens -->
-    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" alt="Python" />
-    <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=0D1117" alt="Java" />
-    <img src="https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117" alt="C#" />
-    <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=0D1117" alt="Kotlin" />
-    <!-- Frontend -->
-    <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React.js" />
-    <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native" />
-    <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=0D1117" alt="Next.js" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=0D1117" alt="jQuery" />
-    <!-- Backend -->
-    <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" alt="Node.js" />
-    <img src="https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0D1117" alt="Express" />
-    <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0D1117" alt="Flask" />
-    <img src="https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117" alt=".NET" />
-    <!-- State Management -->
-    <img src="https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=0D1117" alt="Redux" />
-    <img src="https://img.shields.io/badge/-Zustand-0D1117?style=for-the-badge&logo=zincsearch&logoColor=white&labelColor=0D1117" alt="Zustand" />
-    <!-- Testes -->
-    <img src="https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=0D1117" alt="Jest" />
-    <img src="https://img.shields.io/badge/-React%20Testing%20Library-0D1117?style=for-the-badge&logo=testing-library&logoColor=E33332&labelColor=0D1117" alt="React Testing Library" />
-    <!-- Bancos e ORM -->
-    <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=ffffff&labelColor=0D1117" alt="Prisma" />
-    <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" alt="MySQL" />
-    <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" alt="MongoDB" />
-  </a> 
-</div>
-
-
- 
-
 <!-- Improvised Margin -->
 <p></p>
 <p></p>
@@ -73,7 +34,7 @@
 <p></p>
 <p></p>
 <p></p>
-
+<!-- social links -->
 <div align="center">
     <a href="https://andreas-yuji-fujiki-dev.github.io/portfolio/">
       <img src="https://img.shields.io/badge/-Portfolio-6E40C9?style=for-the-badge&logo=nexon&logoColor=white&labelColor=6E40C9" alt="Portfolio">
@@ -129,33 +90,157 @@
 
 #
 <!--
-  Tools Area:
+    Languages Area:
 -->
-<p align="center">
-    🛸 Tools That I Use :
+<p>
+    🟨 Languages :
 </p>
 <div align="center">
     <a href="https://github.com/andreas-yuji-fujiki-dev">
-      <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="Linux">&nbsp;
-      <img src="https://img.shields.io/badge/-MySQL%20Workbench-0D1117?style=for-the-badge&labelColor=0D1117&logo=mysql&logoColor=2496ED" alt="MySQL Workbench">
-      <img src="https://img.shields.io/badge/-WSL-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=0D1117" alt="WSL">&nbsp;
-      <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git">&nbsp;
-      <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub">&nbsp;
-      <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma 4 Devs">&nbsp;
-      <img src="https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&labelColor=0D1117&logo=swagger&logoColor=00ADEF" alt="Visual Studio Code">&nbsp;
-      <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=font-awesome&logoColor=00ADEF&labelColor=0D1117" alt="Windows">&nbsp;
-      <img src="https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&labelColor=0D1117&logo=dbeaver&logoColor=4c3b35" alt="DBeaver">&nbsp;
-      <img src="https://img.shields.io/badge/-MySQL%20Workbench-0D1117?style=for-the-badge&labelColor=0D1117&logo=mysql&logoColor=2496ED" alt="MySQL Workbench">&nbsp;
-      <img src="https://img.shields.io/badge/-VPS_Linux_Server-0D1117?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="VPS Linux Server">&nbsp;
-      <img src="https://img.shields.io/badge/-Flasgger-0D1117?style=for-the-badge&logo=swagger&labelColor=0D1117&logoColor=07e9a5" alt="Flasgger">&nbsp;
-      <img src="https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117&logoColor=FFFFF" alt="Notion">&nbsp;
-      <img src="https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&logoColor=1565d4&labelColor=0D1117" alt="Trello">&nbsp;
-      <img src="https://img.shields.io/badge/-ClickUp-0D1117?style=for-the-badge&logo=clickup&logoColor=fa32a9&labelColor=0D1117" alt="ClickUp">&nbsp;
-      <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">&nbsp;
-      <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker">&nbsp;
-      <img src="https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&logoColor=e64b35&labelColor=0D1117" alt="Apache">&nbsp;
-      <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117" alt="Postman">&nbsp;
-      <img src="https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=7819da&labelColor=0D1117" alt="Insomnia">&nbsp;
+        <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=0D1117" />
+    </a>
+</div>
+
+
+
+
+
+
+#
+<!--
+    Frontend Area:
+-->
+<p>
+   🎨 Frontend :
+</p>
+<div align="center">
+    <a href="https://github.com/andreas-yuji-fujiki-dev">
+        <img src="https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Zustand-0D1117?style=for-the-badge&logo=zincsearch&logoColor=FFFFFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Styled%20Components-0D1117?style=for-the-badge&logo=styledcomponents&logoColor=DB7093&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=0D1117" />
+    </a>
+</div>
+
+
+
+
+
+#
+<!--
+    Backend Area:
+-->
+<p>
+    🧩 Backend :
+</p>
+<div align="center">
+    <a href="https://github.com/andreas-yuji-fujiki-dev">
+        <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117" />
+    </a>
+</div>
+
+
+
+
+
+
+#
+<!--
+    Tests Area:
+-->
+<p>
+    🧪 Tools for Tests :
+</p>
+<div align="center">
+    <a href="https://github.com/andreas-yuji-fujiki-dev">
+        <img src="https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-React%20Testing%20Library-0D1117?style=for-the-badge&logo=testing-library&logoColor=E33332&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Supertest-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF&labelColor=0D1117" />
+    </a>
+</div>
+
+
+
+
+
+
+#
+<!--
+    Database and ORMs Area:
+-->
+<p>
+    🗄️ Database & ORMs :
+</p>
+<div align="center">
+    <a href="https://github.com/andreas-yuji-fujiki-dev">
+        <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=FFFFFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-SQLAlchemy-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-MariaDB-0D1117?style=for-the-badge&logo=mariadb&logoColor=003545&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" />
+    </a>
+</div>
+
+#
+<!--
+    DevOPS / Infra Area:
+-->
+<p>
+    🧠 DevOps / Infrastructure :
+</p>
+<div align="center">
+    <a href="https://github.com/andreas-yuji-fujiki-dev">
+        <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-WSL-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-VPS%20%2F%20Linux%20Server-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-NGINX-0D1117?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=0D1117" />
+    </a>
+</div>
+
+
+
+
+
+
+#
+<!--
+  Tools Area:
+-->
+<p>
+    🛸 Productivity / Tools :
+</p>
+<div align="center">
+    <a href="https://github.com/andreas-yuji-fujiki-dev">
+        <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-FigJam-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Git%20%26%20GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=4000BF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&logoColor=FFFFFF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-ClickUp-0D1117?style=for-the-badge&logo=clickup&logoColor=9336FD&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Asana-0D1117?style=for-the-badge&logo=asana&logoColor=F06A6A&labelColor=0D1117" />
     </a>
 </div>
 
