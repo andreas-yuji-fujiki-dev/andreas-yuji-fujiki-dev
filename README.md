@@ -92,9 +92,9 @@
 <!--
     Languages Area:
 -->
-<p>
+<h2>
     🟨 Languages :
-</p>
+</h2>
 <div>
     <a href="https://github.com/andreas-yuji-fujiki-dev">
         <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" />
