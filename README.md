@@ -93,7 +93,7 @@
     Languages Area:
 -->
 <p>
-    **🟨 Languages :**
+    <strong>🟨 Languages :</strong>
 </p>
 <div>
     <a href="https://github.com/andreas-yuji-fujiki-dev">
@@ -117,7 +117,7 @@
     Frontend Area:
 -->
 <p>
-   🎨 Frontend :
+   <strong>🎨 Frontend :</strong>
 </p>
 <div>
     <a href="https://github.com/andreas-yuji-fujiki-dev">
@@ -143,7 +143,7 @@
     Backend Area:
 -->
 <p>
-    🧩 Backend :
+    <strong>🧩 Backend :</strong>
 </p>
 <div>
     <a href="https://github.com/andreas-yuji-fujiki-dev">
@@ -166,7 +166,7 @@
     Tests Area:
 -->
 <p>
-    🧪 Tools for Tests :
+    <strong>🧪 Tools for Tests :</strong>
 </p>
 <div>
     <a href="https://github.com/andreas-yuji-fujiki-dev">
@@ -187,7 +187,7 @@
     Database and ORMs Area:
 -->
 <p>
-    🗄️ Database & ORMs :
+    <strong>🗄️ Database & ORMs :</strong>
 </p>
 <div>
     <a href="https://github.com/andreas-yuji-fujiki-dev">
@@ -204,7 +204,7 @@
     DevOPS / Infra Area:
 -->
 <p>
-    🧠 DevOps / Infrastructure :
+    <strong>🧠 DevOps / Infrastructure :</strong>
 </p>
 <div>
     <a href="https://github.com/andreas-yuji-fujiki-dev">
@@ -228,7 +228,7 @@
   Tools Area:
 -->
 <p>
-    🛸 Productivity / Tools :
+    <strong>🛸 Productivity / Tools :</strong>
 </p>
 <div>
     <a href="https://github.com/andreas-yuji-fujiki-dev">
