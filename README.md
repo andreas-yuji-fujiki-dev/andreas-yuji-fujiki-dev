@@ -137,6 +137,7 @@
         <img src="https://img.shields.io/badge/-Zustand-0D1117?style=for-the-badge&logo=zincsearch&logoColor=FFFFFF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=FF3E00&labelColor=0D1117" alt="Svelte" />
         <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117" />
@@ -205,6 +206,8 @@
     <a href="https://github.com/andreas-yuji-fujiki-dev">
         <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=FFFFFF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-SQLAlchemy-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=31648A&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-MariaDB-0D1117?style=for-the-badge&logo=mariadb&logoColor=003545&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" />
