@@ -91,9 +91,11 @@
 <div align="center">
   <a href="https://github.com/andreas-yuji-fujiki-dev">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreas-yuji-fujiki-dev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="11%" src="https://visitor-badge.laobi.icu/badge?page_id=andreas-yuji-fujiki-dev.andreas-yuji-fujiki-dev" alt="Page Visitors" />
   </a>
 </div>
+<a href="https://github.com/andreas-yuji-fujiki-dev">
+  <img width="11%" src="https://visitor-badge.laobi.icu/badge?page_id=andreas-yuji-fujiki-dev.andreas-yuji-fujiki-dev" alt="Page Visitors" />
+</a>
 
 
 
@@ -268,7 +270,7 @@
 <!--
   Level, Achievements & Most Used Languages:
 -->
-<p align="center">
+<p>
     🌙 Other GitHub Stats :
 </p>
 <div align="center">
@@ -287,7 +289,7 @@
 <!--
   Snake on Commits:
 -->
-<p align="center">
+<p>
   🐍 HEY! YOU SHOUDN'T BE EATING THIS!! STOOOP!! 😭🙀😭🙀
 </p>
 
