@@ -317,6 +317,17 @@
 </a>
 
 #
+<!--
+  Currently Listening Section
+-->
+<p>
+  🎵 I'm currently listening to :
+</p>
+<a href="https://open.spotify.com/intl-pt/track/2GxrNKugF82CnoRFbQfzPf?si=4b43fe7fea574452">
+  <img src="https://github.com/andreas-yuji-fujiki-dev/andreas-yuji-fujiki-dev/blob/main/listening-to.png">
+</a>
+
+#
 <!-- Fixed Repos Presentation
 -->
 <p align="left">
