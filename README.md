@@ -69,7 +69,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/andreasfujiki/assets/main/dividers/wave-dark.svg" width="100%" />
+#
 <!--
   Streak & Status
 -->
