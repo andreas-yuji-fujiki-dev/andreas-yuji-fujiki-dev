@@ -276,7 +276,27 @@
 <div align="center">
   <a href="https://github.com/andreas-yuji-fujiki-dev">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-yuji-fujiki-dev&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most used languages"/>
-    <img src="https://github.com/andreas-yuji-fujiki-dev/andreas-yuji-fujiki-dev/blob/main/profile-3d-contrib/profile-night-green.svg" />
+    <table>
+  <tr>
+    <td>
+      <img src="https://github.com/Henrytos/Henrytos/blob/main/profile-3d-contrib/profile-night-green.svg" height="350"/>
+    </td>
+    <td>
+    <h3>☕ Skills Back end</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,vitest,docker,mysql&theme=dark" />
+    </a>
+    <h3>🖌️ Skills Front end</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+    </a>
+    <h3>📚 Estudando</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,aws&theme=dark" />
+    </a>
+    </td>
+  </tr>
+</table>
   </a>
 </div>
 
