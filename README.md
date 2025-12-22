@@ -276,7 +276,7 @@
 <div align="center">
   <a href="https://github.com/andreas-yuji-fujiki-dev">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-yuji-fujiki-dev&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most used languages"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-yuji-fujiki-dev&layout=compact&langs_count=6&theme=radical"/>
+    <img src="https://github.com/andreas-yuji-fujiki-dev/andreas-yuji-fujiki-dev/blob/main/profile-3d-contrib/profile-night-green.svg" />
   </a>
 </div>
 
