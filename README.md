@@ -273,7 +273,7 @@
 <p>
     🌙 Other GitHub Stats :
 </p>
-<div align="center">
+<div>
   <a href="https://github.com/andreas-yuji-fujiki-dev">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-yuji-fujiki-dev&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most used languages"/>
   </a>
