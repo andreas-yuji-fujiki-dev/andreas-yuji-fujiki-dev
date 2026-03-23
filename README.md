@@ -3,7 +3,7 @@
 </a>
 
 <!-- Effect Phrase -->
-<a href="https://github.com/andreas-yuji-fujiki-dev">
+<a align="center" href="https://github.com/andreas-yuji-fujiki-dev">
   <p align="center">
     <img src="https://img.shields.io/badge/Creative%20·%20Precise%20·%20Fullstack-0D1117?style=for-the-badge&logo=apache%20spark&logoColor=F5DEB3&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/The%20Open--Mind%20Programmer%20You%20Need-0D1117?style=for-the-badge&logo=jetbrains&logoColor=00E7FF&labelColor=0D1117" />
