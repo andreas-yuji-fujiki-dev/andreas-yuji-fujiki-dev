@@ -239,28 +239,10 @@
 
 #
 <!--
-  Level, Achievements & Most Used Languages:
--->
-<p>
-    🌙 Other GitHub Stats :
-</p>
-<div>
-  <a href="https://github.com/andreas-yuji-fujiki-dev">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-yuji-fujiki-dev&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most used languages"/>
-  </a>
-</div>
-
-
-
-
-
-
-#
-<!--
   Snake on Commits:
 -->
 <p>
-  🐍 HEY! YOU SHOUDN'T BE EATING THIS!! STOOOP!! 😭🙀😭🙀
+  🐍 HEY! YOU SHOUDN'T BE EATING THIS! 😭🙀😭🙀
 </p>
 
 <div align="center">
