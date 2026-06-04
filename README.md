@@ -73,9 +73,11 @@
 <!--
   Visitors Count
 -->
-<a href="https://github.com/andreas-yuji-fujiki-dev">
-  <img width="11%" src="https://visitor-badge.laobi.icu/badge?page_id=andreas-yuji-fujiki-dev.andreas-yuji-fujiki-dev" alt="Page Visitors" />
-</a>
+<div align="center">
+  <a href="https://github.com/andreas-yuji-fujiki-dev">
+    <img width="11%" src="https://visitor-badge.laobi.icu/badge?page_id=andreas-yuji-fujiki-dev.andreas-yuji-fujiki-dev" alt="Page Visitors" />
+  </a>
+</div>
 
 
 
