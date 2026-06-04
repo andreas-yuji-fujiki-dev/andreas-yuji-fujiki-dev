@@ -48,9 +48,9 @@
 <p></p>
 <!-- social links -->
 <div align="center">
-    <a href="https://andreas-yuji-fujiki-dev.github.io/portfolio/">
+    <!-- <a href="https://andreas-yuji-fujiki-dev.github.io/portfolio/">
       <img src="https://img.shields.io/badge/-Portfolio-6E40C9?style=for-the-badge&logo=nexon&logoColor=white&labelColor=6E40C9" alt="Portfolio">
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/andreas-yuji-fujiki-dev/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt"LinkedIn" />
     </a>
@@ -60,9 +60,9 @@
     <a href="https://www.instagram.com/sun.developer/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" />
     </a>
-    <a href="https://leetcode.com/profile/">
+    <!-- <a href="https://leetcode.com/profile/" target="_blank">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-    </a>
+    </a> -->
 </div> 
 
 
