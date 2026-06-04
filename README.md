@@ -71,28 +71,8 @@
 
 #
 <!--
-  Streak & Status
+  Visitors Count
 -->
-<div align="center">  
-  <a href="https://github.com/andreas-yuji-fujiki-dev">
-    <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=andreas-yuji-fujiki-dev&count_private=true&theme=tokyonight&hide_border=true" alt="Andreas Yuji's GitHub Streak Stats" /> 
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andreas-yuji-fujiki-dev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Yuji's GitHub Stats" />
-  </a>
-</div>
-
-
-
-
-
-
-<!--
-  Contributions Graph & Visitors Count
--->
-<div align="center">
-  <a href="https://github.com/andreas-yuji-fujiki-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreas-yuji-fujiki-dev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
-  </a>
-</div>
 <a href="https://github.com/andreas-yuji-fujiki-dev">
   <img width="11%" src="https://visitor-badge.laobi.icu/badge?page_id=andreas-yuji-fujiki-dev.andreas-yuji-fujiki-dev" alt="Page Visitors" />
 </a>
@@ -114,9 +94,6 @@
         <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=0D1117" />
     </a>
 </div>
@@ -145,7 +122,6 @@
         <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-Styled%20Components-0D1117?style=for-the-badge&logo=styledcomponents&logoColor=DB7093&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=0D1117" />
     </a>
 </div>
 
@@ -167,7 +143,6 @@
         <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117" />
     </a>
 </div>
 
@@ -188,7 +163,6 @@
         <img src="https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-React%20Testing%20Library-0D1117?style=for-the-badge&logo=testing-library&logoColor=E33332&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-Supertest-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF&labelColor=0D1117" />
     </a>
 </div>
 
@@ -208,10 +182,8 @@
     <a href="https://github.com/andreas-yuji-fujiki-dev">
         <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=FFFFFF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-SQLAlchemy-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=31648A&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-MariaDB-0D1117?style=for-the-badge&logo=mariadb&logoColor=003545&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" />
     </a>
 </div>
@@ -226,7 +198,6 @@
 <div>
     <a href="https://github.com/andreas-yuji-fujiki-dev">
         <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-WSL-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/-VPS%20%2F%20Linux%20Server-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=0D1117" />
